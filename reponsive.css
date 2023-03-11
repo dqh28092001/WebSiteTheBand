@@ -1,0 +1,28 @@
+/* Mobie */
+
+@media (max-with:740px){
+    .image .text-content{
+        position: absolute;
+        bottom: 8%;
+        left: 31%;
+        color: #fff;
+    }
+    .text-heading{
+        padding-left: 112px;
+    }
+    .text-description{
+        padding-left: 214px;
+    }
+
+    /* Phần 2 */
+#content{
+    width: 92%;
+    /* max-width: 100%; */
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5pc;
+    line-height: 1.5;
+    
+}
+}
